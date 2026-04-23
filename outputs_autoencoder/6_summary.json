@@ -1,0 +1,16 @@
+{
+  "Model": "ConvAutoencoder",
+  "Latent Dimension": 128,
+  "Parameters": 249697,
+  "Best Val Loss (MSE)": 0.002273,
+  "Test Mean Reconstruction Error": 0.003463,
+  "Test Std Reconstruction Error": 0.001759,
+  "Anomaly Threshold (percentile)": 95,
+  "Anomaly Threshold (value)": 0.006812,
+  "Clean Images Flagged (%)": 5.01,
+  "Corrupted Images Flagged (%)": 100.0,
+  "Batch Size": 64,
+  "Learning Rate": 0.001,
+  "Epochs": 30,
+  "Patience": 5
+}

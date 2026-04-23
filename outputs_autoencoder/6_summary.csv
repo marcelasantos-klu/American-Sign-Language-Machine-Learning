@@ -1,0 +1,2 @@
+Model,Latent Dimension,Parameters,Best Val Loss (MSE),Test Mean Reconstruction Error,Test Std Reconstruction Error,Anomaly Threshold (percentile),Anomaly Threshold (value),Clean Images Flagged (%),Corrupted Images Flagged (%),Batch Size,Learning Rate,Epochs,Patience
+ConvAutoencoder,128,249697,0.002273,0.003463,0.001759,95,0.006812,5.01,100.0,64,0.001,30,5
